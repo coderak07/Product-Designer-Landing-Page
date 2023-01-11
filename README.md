@@ -35,5 +35,5 @@ This is an task given in **"Internship"** by **Oasis Infobyte**, built using **H
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Prakash Naikwadi](www.linkedin.com/in/dev-akshaykate)
-- **Twitter** - [@PrakashNaikwad6](https://twitter.com/Dev_AkshayKate)
+- **LinkedIn** - [Akshay Kate](www.linkedin.com/in/dev-akshaykate)
+- **Twitter** - [@dev-akshaykate](https://twitter.com/Dev_AkshayKate)
